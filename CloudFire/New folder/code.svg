@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="107" viewBox="0 0 114 107">
+  <g id="code" transform="translate(-762 -1318)">
+    <g id="Group_38" data-name="Group 38">
+      <g id="Group_37" data-name="Group 37">
+        <g id="Group_36" data-name="Group 36">
+          <text id="Coding" transform="translate(814 1415)" fill="#fff" font-size="28" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-51.52" y="0">Coding</tspan></text>
+          <g id="Group_6" data-name="Group 6" transform="translate(763.009 1317.657)">
+            <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(14.991 0.343)" fill="#165cff" stroke="#fff" stroke-width="3">
+              <rect width="83" height="54" stroke="none"/>
+              <rect x="1.5" y="1.5" width="80" height="51" fill="none"/>
+            </g>
+            <rect id="Rectangle_14" data-name="Rectangle 14" width="113" height="7" transform="translate(-0.009 54.343)" fill="#165cff"/>
+            <path id="Union_5" data-name="Union 5" d="M4,12a4,4,0,0,1-.428-7.977V3.929a3.929,3.929,0,0,1,7.858,0v.094A4,4,0,0,1,11,12Z" transform="translate(46.991 20.343)" fill="#165cff"/>
+          </g>
+          <text id="_" data-name="&lt;/&gt;" transform="translate(819 1357)" fill="#fff" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-25.74" y="0">&lt;/&gt;</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

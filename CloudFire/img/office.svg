@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="112.073" viewBox="0 0 220 112.073">
+  <g id="office" transform="translate(-1333.781 -1312.492)">
+    <text id="Microsoft_Office" data-name="Microsoft Office" transform="translate(1443.781 1414.565)" fill="#fff" font-size="28" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-109.662" y="0">Microsoft Office</tspan></text>
+    <g id="Group_23" data-name="Group 23" transform="translate(1416.217 1312.492)">
+      <path id="Path_18" data-name="Path 18" d="M1130.161,2002.456l-9.906,7.039-4.171-3,.652-36.107,23.071-14.208a33.972,33.972,0,0,1,8.212-1.3c5.084-.261,2.868,11.862,2.868,11.862.13-.26-20.725,8.864-20.725,8.864Z" transform="translate(-1116.084 -1954.875)" fill="#3324ff"/>
+      <path id="Path_19" data-name="Path 19" d="M1189.433,2218.813H1165.97s-6.387,1.173-.652,5.865,12.383,10.819,20.986,8.082,12.122-12.9,12.122-12.9Z" transform="translate(-1153.327 -2164.714)" fill="blue"/>
+      <path id="Path_17" data-name="Path 17" d="M1275.046,1966.735v-7.964l-2.711-3.558s22.368,4.744,22.876,10.167,0,47.955,0,47.955l-3.22,4.914c.169-.339-18.47,4.745-18.47,4.745a12.415,12.415,0,0,0,2.542-4.745C1277.014,2015.133,1275.046,1966.735,1275.046,1966.735Z" transform="translate(-1240.308 -1955.143)" fill="#165cff"/>
+    </g>
+  </g>
+</svg>
